@@ -1,0 +1,24 @@
+{
+    "nama":"sihab",
+    "umur":20,
+    "nim":"210902030",
+    "lulus":false,
+    "hobby":[
+        "coding","gaming","anim"
+    ],
+    "pembimbing":{
+        "pembimbing1" : "indra",
+        "pembimbing2" : "prana"
+    },
+    "nama":"sihab",
+    "umur":20,
+    "nim":"210902030",
+    "lulus":false,
+    "hobby":[
+        "coding","gaming","anim"
+    ],
+    "pembimbing":{
+        "pembimbing1" : "indra",
+        "pembimbing2" : "prana"
+    }
+}
